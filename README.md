@@ -1,4 +1,4 @@
-1) ## Sets in Python come with several built-in methods that allow you to perform various operations. 
+## 1)  Sets in Python come with several built-in methods that allow you to perform various operations. 
       ### Set Methods
       
       1) **add(elem):** Adds an element elem to the set. If elem is already present, it does nothing.
